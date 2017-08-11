@@ -1,0 +1,17 @@
+HEXAPOD
+=>Main - Walk , rotate, Popout
+=>=>Walk - move(30,50,20)
+
+
+
+Modules
+-crabconfig.h
+-crabbase.h
+-step.h
+-move.h
+
+
+
+
+Future Improvements
+-to have some mathematical functions

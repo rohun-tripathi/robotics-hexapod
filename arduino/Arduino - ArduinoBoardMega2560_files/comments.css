@@ -1,0 +1,95 @@
+#externalcomments {
+	margin-top: 50px;
+	font-size: 12px;
+	color: black;
+	clear: both;
+}
+
+#externalcomments .post {
+	margin-top: 10px;
+	padding-left: 5px;
+	font-size: 12px;
+}
+
+#externalcomments .postericon {
+	float: left;
+	padding: 5px;
+	margin: 0px;
+}
+
+#externalcomments .userinfo .commentdate {
+	color: #999999;
+}
+
+#externalcomments .commentbody {
+	margin-left: 5px;
+}
+
+#externalcomments .post .commentbuttons {
+	font-size: 11px;
+	clear: both;
+}
+
+#externalcomments .subcomments {
+	border-left: 1px dotted #CCCCCC;
+	margin-left: 20px;
+}
+
+#externalcomments #newpost {
+	margin-left: 15px;
+	margin-top: 20px;
+}
+
+#externalcomments #newpost p {
+	padding: 3px;
+	margin: 0px;
+}
+
+#externalcomments #newpost textarea {
+	width: 400px;
+	height: 80px;
+	margin: 0;
+}
+
+#externalcomments .post .clearer {
+	clear: both;
+}
+
+#externalcomments #loginalert {
+	margin: 0.5em;
+}
+
+#reportcommentdialog textarea {
+	height: 80px;
+}
+
+.storecomments .commentstitle {
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: left;
+	background-color: #00979C;
+	margin: 0;
+	padding: 5px 10px;
+	font-family: "Lucida Grande",Lucida,Verdana,sans-serif;
+}
+
+.storecomments .posthead {
+	line-height: 11px;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.wikicomments .posthead {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.wikicomments .commentbody {
+	margin-top: 5px;
+}
+
+.wikicomments .postericon img {
+	margin-bottom: 0px;
+}
+
